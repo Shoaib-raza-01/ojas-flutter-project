@@ -1,7 +1,10 @@
-# olas
+# Ojas Aerospace
 
-A new Flutter project.
+This project is part of my assigment of Ojas Aerospace.
 
+## SCREENSHOTS
+
+![First Screenshot](https://github.com/Shoaib-raza-01/ojas-flutter-project/blob/master/assets/images/Screen1.png)     ![Second Screenshot](https://github.com/Shoaib-raza-01/ojas-flutter-project/blob/master/assets/images/screen2.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
